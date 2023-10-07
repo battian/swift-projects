@@ -4,4 +4,4 @@ This project helped me learn about basic use and implementation of navigation co
 
 ## Demo
 
-![CountriesList Simulator Screen Recording](./assets/P01-CountriesList-Simulator-Screen-Recording.gif)
+<img src="../assets/P01-CountriesList-Simulator-Screen-Recording.gif" alt="CountriesList Simulator Screen Recording" width="30%"/>
