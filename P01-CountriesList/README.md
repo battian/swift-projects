@@ -1,7 +1,19 @@
 # Countries List
 
-This project helped me learn about basic use and implementation of navigation controller, scroll view, table view, storyboard, parsing json from a local file and pass data between screens.
+Simple app with a list of countries.
+
+## What I learned:
+
+This project helped me learn about the basic use and implementation of:
+
+- Navigation controller;
+- View controller;
+- Scroll view;
+- Table view;
+- Storyboard;
+- Parsing JSON from a local file;
+- How to pass data between screens.
 
 ## Demo
 
-![CountriesList Simulator Screen Recording](./assets/P01-CountriesList-Simulator-Screen-Recording.gif)
+<img src="../assets/P01-CountriesList-Simulator-Screen-Recording.gif" alt="Countries List Simulator Screen Recording" width="30%"/>
