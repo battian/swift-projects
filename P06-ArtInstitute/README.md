@@ -9,4 +9,4 @@ This app displays a list of articles from the [Art Institute of Chicago](https:/
 - How to use Tab Bar Controller to switch between multiple views
 
 ## Demo
-<img src="../assets/P06-ArtInstituteArticles-Simulator-Screen-Recording" alt="Art Institute Articles Simulator Screen Recording" width="30%"/>
+<img src="../assets/P06-ArtInstituteArticles-Simulator-Screen-Recording.gif" alt="Art Institute Articles Simulator Screen Recording" width="30%"/>
